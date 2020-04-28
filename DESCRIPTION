@@ -1,10 +1,7 @@
+
 Package: summeR
-Type: Package
-Title: Summer inspired color palettes for R
 Version: 0.1.0
-Author: Ariane Aumaitre
-Maintainer: ‘Ariane Aumaitre <ariane.aumaitre@gmail.com>’
-Encoding: UTF-8
-LazyData: true
-Imports:
-	tidyverse
+Title: Summer inspired color palettes for Rs
+Author: Ariane Aumaitre 
+Maintainer: Ariane Aumaitre <ariane.aumaitre@gmail.com>
+Suggests: tidyverse
