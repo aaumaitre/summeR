@@ -1,7 +1,14 @@
-
 Package: summeR
+Title: Summer inspired color palettes for R
 Version: 0.1.0
-Title: Summer inspired color palettes for Rs
-Author: Ariane Aumaitre 
-Maintainer: Ariane Aumaitre <ariane.aumaitre@gmail.com>
-Suggests: tidyverse
+Authors@R: 
+    person(given = "Ariane",
+           family = "Aumaitre",
+           role = c("aut", "cre"),
+           email = "ariane.aumaitre@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
