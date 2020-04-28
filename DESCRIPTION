@@ -3,7 +3,7 @@ Type: Package
 Title: Summer inspired color palettes for R
 Version: 0.1.0
 Author: Ariane Aumaitre
-Maintainer: ariane.aumaitre@gmail.com
+Maintainer: ‘Ariane Aumaitre <ariane.aumaitre@gmail.com>’
 Encoding: UTF-8
 LazyData: true
 Imports:
